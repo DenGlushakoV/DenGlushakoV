@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DenGlushakoV
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JavaScript&React.
+- 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on companies to create new projects.
 - 📫 How to reach me: Telegram:https://t.me/denis_glushakov, email: denglushakov@inbox.ru, Linkedin:https://linkedin.com/in/dzianishlushakou.
 
